@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Saidimu
 
-## 💻 Systems Engineer & TypeScript Specialist
+## 💻 Systems Engineer
 
 Systems engineer with deep expertise in TypeScript and JavaScript ecosystems. Focused on building robust, scalable systems and maintaining high-quality npm packages under the [@asaidimu](https://www.npmjs.com/~asaidimu) organization.
 
