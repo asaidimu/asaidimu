@@ -13,7 +13,7 @@ Systems engineer with deep expertise in TypeScript and JavaScript ecosystems. Fo
 ### 🛠️ Core Tech Stack
 
 ```
-Languages:      TypeScript, JavaScript, Golang, Node.js
+Languages:      TypeScript, JavaScript, Golang
 Systems:        Docker, Kubernetes, Linux, AWS, GCP
 DevOps:         CI/CD, Infrastructure as Code, Monitoring, Logging
 Testing:        Jest, Mocha, Cypress, End-to-end Testing
@@ -29,11 +29,6 @@ Maintaining various TypeScript packages under the [@asaidimu](https://www.npmjs.
 
 ![Saidimu's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=asaidimu&show_icons=true&locale=en&layout=compact)
 
-### 🌟 Featured Projects
-
-- **Code Camp** - Interactive programming education platform
-- **TypeScript System Libraries** - Collection of utilities for system engineering
-- *Check my repositories for more*
 
 ### 📫 Let's Connect
 
