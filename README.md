@@ -1,34 +1,50 @@
-# 👋 Hello, I'm Saidimu
+# 👋 Hi, I'm Saidimu
 
-## 💻 Systems Engineer
+## 🧠 Systems Engineer | Software Architect | Entrepreneur
 
-Systems engineer with deep expertise in TypeScript and JavaScript ecosystems. Focused on building robust, scalable systems and maintaining high-quality npm packages under the [@asaidimu](https://www.npmjs.com/~asaidimu) organization.
+I build modular systems and developer tools that prioritize clarity, composability, and long-term maintainability. As both an engineer and entrepreneur, I bring a systems-level mindset to designing software, automating workflows, and scaling infrastructure — whether in open source or production environments.
 
-### 🚀 Current Focus
+I maintain open-source packages under the [@asaidimu](https://www.npmjs.com/~asaidimu) organization and lead technical initiatives across ventures focused on automation, developer experience, and system reliability.
 
-- 🌱 Expanding my skills in **Golang** for systems programming
-- 📦 Maintaining open-source TypeScript packages on npm
-- 🛠️ Designing and implementing scalable system architectures
+---
 
-### 🛠️ Core Tech Stack
+### 🚧 Current Focus
 
+- 🧱 Building a framework-agnostic ecosystem of tools for scalable frontend and backend architecture  
+- 🔧 Developing CLI-first interfaces for developer workflows and automation  
+- 🛠️ Publishing Go and TypeScript libraries to improve system reliability and developer experience  
+
+---
+
+### 🧰 Core Tech Stack
 ```
-Languages:      TypeScript, JavaScript, Golang
-Systems:        Docker, Kubernetes, Linux, AWS, GCP
-DevOps:         CI/CD, Infrastructure as Code, Monitoring, Logging
-Testing:        Jest, Mocha, Cypress, End-to-end Testing
-Architecture:   Microservices, Serverless, Event-driven Systems
-Tooling:        Webpack, Rollup, ESBuild, tsc, npm, yarn
+Languages: Go, TypeScript, JavaScript
+Architecture: Microservices, Event-driven, Serverless, Plugin-based Systems
+Infrastructure: Docker, Kubernetes, Linux, AWS, GCP
+DevOps: GitHub Actions, Terraform, CI/CD pipelines, IaC
+Tooling: tsup, Bun, Vitest, tsc, npm, yarn
+Testing: Vitest, Jest, Cypress, Integration & E2E frameworks
 ```
 
-### 📦 NPM Packages
+---
 
-Maintaining various TypeScript packages under the [@asaidimu](https://www.npmjs.com/~asaidimu) organization on npm, focused on developer productivity and system reliability.
+### 📦 Open Source Highlights
+
+- [`go-events`](https://pkg.go.dev/github.com/asaidimu/go-events) — A robust and flexible in-memory event bus for Go applications.
+- [`go-anansi`](https://pkg.go.dev/github.com/asaidimu/go-anansi/v5) — A comprehensive toolkit for defining, versioning, migrating, and persisting structured data, enabling schema-driven development with powerful runtime validation and adaptable storage layers.
+- [`@asaidimu/react-store`](https://www.npmjs.com/package/@asaidimu/react-store) — A performant, type-safe state management solution for React with built-in persistence, extensive observability, and a robust middleware system. 
+- [`@asaidimu/utils-store`](https://www.npmjs.com/package/@asaidimu/utils-store) — A comprehensive, type-safe, and reactive state management library for TypeScript applications, featuring robust middleware, transactional updates, deep observability, and an optional persistence layer.
+- [`nani`](https://pkg.go.dev/github.com/asaidimu/nani) — A sleek and efficient terminal-based chat application.
+
+More packages available on [npmjs.com/~asaidimu »](https://www.npmjs.com/~asaidimu)
+
+---
 
 ### 📈 GitHub Stats
 
 ![Saidimu's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=asaidimu&show_icons=true&locale=en&layout=compact)
 
+---
 
 ### 📫 Let's Connect
 
@@ -41,4 +57,4 @@ Maintaining various TypeScript packages under the [@asaidimu](https://www.npmjs.
 
 ---
 
-> "The best way to predict the future is to implement it." - David Heinemeier Hansson
+> "The best way to predict the future is to implement it." – David Heinemeier Hansson
